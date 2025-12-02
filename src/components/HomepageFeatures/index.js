@@ -1,45 +1,83 @@
+import React, { useState, useEffect } from 'react';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Vegetais Frescos e Locais',
+    images: [
+      './img/greenlink_vegetais1.jpg',
+      './img/tomato.jpg',
+      './img/brocoli.jpg',
+    ],
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Colhidos diariamente por agricultores locais, garantindo frescura,
+        sabor e qualidade máxima.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Sustentabilidade em Primeiro Lugar',
+    images: [
+      '/img/greenlink_campo.jpg',
+      '/img/greenlink_agricultura.jpg',
+      '/img/greenlink_eco.jpg',
+    ],
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        A Greenlink apoia práticas agrícolas responsáveis, reduzindo o impacto
+        ambiental e promovendo o consumo consciente.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Encomendas Rápidas e Práticas',
+    images: [
+      '/img/greenlink_cabaz.jpg',
+      '/img/greenlink_entrega.jpg',
+      '/img/greenlink_market.jpg',
+    ],
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Escolha os seus vegetais, receba um cabaz em casa e aproveite a
+        simplicidade de comprar produtos naturais online.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function ImageCarousel({ images }) {
+  const [current, setCurrent] = useState(0);
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setCurrent((prev) => (prev + 1) % images.length);
+    }, 2500);
+    return () => clearInterval(timer);
+  }, [images.length]);
+
+  return (
+    <div className={styles.carousel}>
+      {images.map((src, index) => (
+        <img
+          key={index}
+          src={src}
+          className={clsx(styles.carouselImage, {
+            [styles.active]: index === current,
+          })}
+        />
+      ))}
+    </div>
+  );
+}
+
+function Feature({ title, description, images }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <ImageCarousel images={images} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
