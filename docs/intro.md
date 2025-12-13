@@ -14,3 +14,49 @@ Bem-vindo à documentação do **GreenLink**.
   - Funções/classes principais
   - Entradas/saídas
   - Interações com a base de dados (SQLite)
+---
+
+## Como esta documentação está organizada
+
+- A estrutura da documentação reflete a estrutura do projeto em Python
+- **Cada ficheiro `.py` tem a sua própria página `.md`**
+- As pastas em `docs/` correspondem diretamente às pastas do projeto
+
+Exemplo:
+- `classes/cliente.py` → `docs/classes/cliente.md`
+- `tools/admin_tools/product_manager.py` → `docs/tools/admin_tools/product_manager.md`
+
+---
+
+## O que encontras em cada página
+
+Cada página de documentação explica:
+
+- 🧠 **Objetivo do ficheiro** (em contexto de equipa)
+- 📦 **Funções ou classes presentes**
+- 🔌 **Parâmetros de entrada**
+- 📤 **O que cada função faz**
+- 🗄️ **Interações com a base de dados (SQLite)**
+- 🔗 **Dependências com outros módulos**
+
+A explicação foi escrita de forma clara e prática,
+como se fosse partilhada entre colegas de equipa.
+
+---
+
+## Tecnologias usadas
+
+- **Python** (lógica do sistema)
+- **SQLite** (base de dados)
+- **Docusaurus** (documentação)
+- **Git** (controlo de versões)
+
+---
+
+## Objetivo da documentação
+
+O objetivo desta documentação é:
+- Facilitar a leitura e compreensão do código
+- Ajudar novos membros da equipa a perceber o projeto rapidamente
+- Servir como suporte para avaliação académica
+- Tornar o projeto mais organizado 
