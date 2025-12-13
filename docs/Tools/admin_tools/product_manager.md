@@ -65,7 +65,7 @@ Remover um produto pelo nome.
 ## Função: `ver_stock(db)`
 
 ### Objetivo
-Listar produtos mostrando nome, preço e stock + indicador "Baixo" se stock <= 5.
+Listar produtos mostrando nome, preço e stock + indicador "Baixo" se `stock <= 5`.
 
 ### Parâmetros
 - `db` (`sqlite3.Connection`)
@@ -150,4 +150,3 @@ Permitir ao admin aprovar (A) ou rejeitar (N) um ticket pendente.
 - `tickets_produto`
 - `produtos`
 
-> Nota: Este método cria produto automaticamente se o ticket for aprovado.

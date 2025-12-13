@@ -61,4 +61,3 @@ Mostrar todos os objetivos mensais e o desempenho.
 ### Tabela usada
 - `objetivos_mensais`
 
-> Nota: este módulo assume que a tabela já tem colunas para valores reais (`real_prod`, `real_vend`, `real_rec`).
