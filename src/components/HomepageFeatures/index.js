@@ -21,9 +21,9 @@ const FeatureList = [
   {
     title: 'Sustentabilidade em Primeiro Lugar',
     images: [
-      '/img/greenlink_campo.jpg',
-      '/img/greenlink_agricultura.jpg',
-      '/img/greenlink_eco.jpg',
+      './img/AIMG1.jpg',
+      './img/AIMG2.jpeg',
+      './img/AIMG3.jpeg',
     ],
     description: (
       <>
@@ -35,13 +35,13 @@ const FeatureList = [
   {
     title: 'Encomendas Rápidas e Práticas',
     images: [
-      '/img/greenlink_cabaz.jpg',
-      '/img/greenlink_entrega.jpg',
-      '/img/greenlink_market.jpg',
+      './img/AIMG4.jpg',
+      './img/AIMG5.jpg',
+      './img/AIMG6.jpg',
     ],
     description: (
       <>
-        Escolha os seus vegetais, receba um cabaz em casa e aproveite a
+        Escolha os seus vegetais, receba a encomeda em seu negocio e siga os produtos online, aproveite a
         simplicidade de comprar produtos naturais online.
       </>
     ),
