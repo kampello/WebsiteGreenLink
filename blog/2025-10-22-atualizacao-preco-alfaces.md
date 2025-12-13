@@ -1,7 +1,7 @@
 ---
 title: Atualização de Preço – Alfaces
 slug: atualizacao-preco-alfaces
-authors: [admin]
+authors: [goncalo-augusto]
 date: 2025-10-22
 tags: [preços, produtos, avisos]
 ---
