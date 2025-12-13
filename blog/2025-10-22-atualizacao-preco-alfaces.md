@@ -3,7 +3,7 @@ title: Atualização de Preço – Alfaces
 slug: atualizacao-preco-alfaces
 authors: [goncalo-augusto]
 date: 2025-10-22
-tags: [preços, produtos, avisos]
+tags: [precos, produtos, avisos]
 ---
 
 Informamos os nossos clientes que o preço das alfaces irá aumentar 1,5€
