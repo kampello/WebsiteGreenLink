@@ -59,3 +59,27 @@
   margin-top: 8px;
   font-size: 1.2rem;
 }
+.carousel {
+  position: relative;
+  width: 100%;
+  height: 220px; /* ajusta */
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.carouselImage {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+
+  opacity: 0;
+  transform: scale(1.02);
+  transition: opacity 600ms ease, transform 600ms ease;
+}
+
+.active {
+  opacity: 1;
+  transform: scale(1);
+}
