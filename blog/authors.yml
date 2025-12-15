@@ -1,25 +1,39 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
+paulo:
+  name: Paulo Paulino
+  title: Especialista dos Especialistas
+  url: https://linkedin.com/in/paulopaulino
+  image_url: /img/paulo.png
+  page: false
   socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
+    linkedin: paulopaulino
+    github: paulopaulino
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+david:
+  name: David Vieira
+  title: Especialista em Fazer de Conta
+  url: https://linkedin.com/in/davidvieira
+  image_url: /img/david.png
+  page: false
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    linkedin: davidvieira
+    github: davidvieira
+
+goncalo:
+  name: Gonçalo Augusto
+  title: Especialista em encher chouriços
+  url: https://linkedin.com/in/goncaloaugusto
+  image_url: /img/goncalo.png
+  page: false
+  socials:
+    linkedin: goncaloaugusto
+    github: goncaloaugusto
+
+ricardo:
+  name: Ricardo Cunha
+  title: Especialista em adorar Brócolos
+  url: https://linkedin.com/in/ricardocunha
+  image_url: /img/ricardo.png
+  page: false
+  socials:
+    linkedin: ricardocunha
+    github: ricardocunha
