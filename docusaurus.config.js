@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'GreenLink Porject',
   tagline: 'We Love brocoli',
-  favicon: 'img/favicon.ico',
+  favicon: './img/favicon.ico',
   themes: [
     [
       require.resolve('@easyops-cn/docusaurus-search-local'),
