@@ -7,7 +7,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Vegetais Frescos e Locais',
-    images: ['/img/greenlink_vegetais1.jpg', '/img/tomato.jpg', '/img/brocoli.jpg'],
+    images: ['./img/greenlink_vegetais1.jpg', './img/tomato.jpg', './img/brocoli.jpg'],
     description: (
       <>
         Colhidos diariamente por agricultores locais, garantindo frescura, sabor e qualidade máxima.
@@ -16,7 +16,7 @@ const FeatureList = [
   },
   {
     title: 'Sustentabilidade em Primeiro Lugar',
-    images: ['/img/AIMG1.jpg', '/img/AIMG2.jpeg', '/img/AIMG3.jpeg'],
+    images: ['./img/AIMG1.jpg', './img/AIMG2.jpeg', './img/AIMG3.jpeg'],
     description: (
       <>
         A GreenLink apoia práticas agrícolas responsáveis, reduzindo o impacto ambiental e promovendo o consumo consciente.
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Encomendas Rápidas e Práticas',
-    images: ['/img/AIMG4.jpg', '/img/AIMG5.jpg', '/img/AIMG6.jpg'],
+    images: ['./img/AIMG4.jpg', './img/AIMG5.jpg', './img/AIMG6.jpg'],
     description: (
       <>
         Escolha os seus vegetais, receba a encomenda no seu negócio e acompanhe os produtos online.
