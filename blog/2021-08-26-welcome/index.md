@@ -1,7 +1,7 @@
 ---
 slug: bem-vindo-greenlink
 title: Bem-vindo à Greenlink
-authors: [Ricardo Cunha]
+authors: [ricardo]
 tags: [sustentabilidade, agricultura-local, produtos-frescos, greenlink]
 ---
 
