@@ -1,29 +1,36 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+slug: bem-vindo-greenlink
+title: Bem-vindo à Greenlink
+authors: [Ricardo Cunha]
+tags: [sustentabilidade, agricultura-local, produtos-frescos, greenlink]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
-
-Here are a few tips you might find useful.
+A **Greenlink** nasce com o objetivo de aproximar produtores locais de negócios e consumidores,  
+promovendo uma cadeia alimentar **mais justa, sustentável e transparente**.
 
 <!-- truncate -->
 
-Simply add Markdown files (or folders) to the `blog` directory.
+Neste blog vamos partilhar conteúdos úteis sobre:
 
-Regular blog authors can be added to `authors.yml`.
+- Agricultura local e práticas sustentáveis  
+- Novidades e atualizações da plataforma Greenlink  
+- Histórias inspiradoras de produtores locais  
+- Dicas para negócios que querem consumir produtos frescos e de qualidade  
 
-The blog post date can be extracted from filenames, such as:
+---
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+## 🌱 A nossa missão
 
-A blog post folder can be convenient to co-locate blog post images:
+Facilitar a ligação entre agricultores e clientes, garantindo:
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+- Produtos frescos e de qualidade  
+- Rastreabilidade total  
+- Entregas rápidas e eficientes  
+- Apoio à economia local  
 
-The blog supports tags as well!
+---
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+## 📢 Fique atento
+
+Este blog será atualizado regularmente com conteúdos relevantes sobre sustentabilidade, inovação na agricultura e produtos frescos.  
+Junte-se a nós nesta jornada verde e acompanhe todas as novidades da Greenlink!
