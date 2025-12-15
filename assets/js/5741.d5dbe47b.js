@@ -1,0 +1,1 @@
+(globalThis.webpackChunkwebsite_green_link=globalThis.webpackChunkwebsite_green_link||[]).push([[5741],{5741:()=>{}}]);
