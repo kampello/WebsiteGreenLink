@@ -1,7 +1,7 @@
 ---
 title: Atualização de Preço – Alfaces Bio
 slug: atualizacao-preco-alfaces-bio
-authors: [Ricardo-cunha]
+authors: [ricardo-cunha]
 date: 2025-10-22
 tags: [precos, produtos, avisos]
 ---
