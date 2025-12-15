@@ -13,7 +13,19 @@ const config = {
   title: 'GreenLink Porject',
   tagline: 'We Love brocoli',
   favicon: 'img/favicon.ico',
-
+  themes: [
+    [
+      '@docusaurus/theme-search-algolia',
+      {
+        // pesquisa local
+        algolia: {
+          appId: 'local',
+          apiKey: 'local',
+          indexName: 'local',
+        },
+      },
+    ],
+  ],
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
@@ -83,26 +95,33 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'GreenLink',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          title: 'GreenLink',
+          logo: {
+            alt: 'My Site Logo',
+            src: 'img/logo.svg',
+          },
+          items: [
+            {
+              type: 'docSidebar',
+              sidebarId: 'tutorialSidebar',
+              position: 'left',
+              label: 'Documentação',
+            },
+            { to: '/blog', label: 'Blog', position: 'left' },
+
+            // 🔍 Barra de pesquisa
+            {
+              type: 'search',
+              position: 'right',
+            },
+
+            {
+              href: 'https://github.com/kampello/GreenLink/',
+              label: 'GitHub',
+              position: 'right',
+            },
+          ],
         },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Documentação',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/kampello/GreenLink/',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
-      },
       footer: {
         style: 'dark',
         links: [
