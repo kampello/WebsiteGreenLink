@@ -60,13 +60,13 @@ O administrador pode adicionar novos produtos ao catálogo da aplicação. Para 
 
 ---
 
-## Opção 5
+## Eliminar produto
 
-Descrição da **Opção 5** do menu do administrador.
+Permite ao administrador remover produtos do catálogo quando não estão mais disponíveis ou são obsoletos
 
-![Opção 5 Admin](/img/tutorial/opcao5admin.png)
+![Eliminar produto](/img/tutorial/opcao5admin.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Substitua este texto pela explicação real.
+
 
 ---
 
