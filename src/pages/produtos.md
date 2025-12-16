@@ -29,3 +29,17 @@ As funcionalidades estão organizadas em módulos específicos, facilitando a ma
 * `Administração_Tools` – controlo global da plataforma
 
 Esta separação modular permite uma evolução contínua do sistema sem comprometer a estabilidade.
+
+## 👨‍💼👩‍💼 Administrador
+
+O **Administrador** desempenha um papel central no funcionamento do GreenLink, sendo responsável pela gestão e supervisão de toda a plataforma.
+
+Principais responsabilidades:
+
+* Criar, editar e remover contas de **clientes** e **fornecedores**
+* Adicionar, remover e atualizar produtos disponíveis na plataforma
+* Controlar e ajustar os níveis de stock
+* Monitorizar pedidos em todas as fases do seu ciclo de vida
+* Garantir o correto funcionamento do sistema e a integridade dos dados
+
+Este nível de controlo assegura uma operação estável, organizada e confiável.
