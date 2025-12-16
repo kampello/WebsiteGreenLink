@@ -19,3 +19,15 @@ Encontre aqui todos os guias e manuais:
 * [Manual do Fornecedor](/docs/Tools/fornecedor_tools/comunicacao)
 
 ---
+
+## 💬 Suporte
+
+Se precisar de ajuda direta, contacte-nos através de:
+
+* **Email**: [suporte@greenlink.com](mailto:suporte@greenlink.com)
+* **Número de Telefone**: 919 919 919
+
+> ⚡ O suporte está disponível das 09:00 às 18:00, de segunda a sexta-feira.
+
+---
+
