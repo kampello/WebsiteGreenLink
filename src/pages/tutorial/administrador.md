@@ -42,13 +42,13 @@ Permite ao administrador remover utilizadores da base de dados de forma segura. 
 
 ---
 
-## Opção 3
+## Procurar utilizador
 
-Descrição da **Opção 3** do menu do administrador.
+Esta opção permite pesquisar utilizadores na base de dados. O administrador pode procurar por nome, visualizar detalhes do utilizador.
 
-![Opção 3 Admin](/img/tutorial/opcao3admin.png)
+![Procurar utilizador](/img/tutorial/opcao3admin.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Substitua este texto pela explicação real.
+
 
 ---
 
