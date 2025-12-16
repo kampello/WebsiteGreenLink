@@ -90,10 +90,11 @@ const config = {
               label: 'Documentação',
             },
             { to: '/blog', label: 'Blog', position: 'left' },
-            { to: '/blog', label: 'Blog', position: 'left' },
             { to: '/source_code_setup', label: 'Setup', position: 'left' },
             { to: '/colaboradores', label: 'About Us', position: 'left' },
             { to: '/tutorial', label: 'Tutorial', position: 'left' },
+            { to: '/download', label: 'Download', position: 'left' },
+            { to: '/apoio', label: 'Apoio/FQA', position: 'left' },
             
             {
               type: 'search',
