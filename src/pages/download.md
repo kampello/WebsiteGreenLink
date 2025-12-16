@@ -42,8 +42,7 @@ Escolha a versão que deseja baixar:
 
 1. Baixe o arquivo da sua plataforma.
 2. Extraia o conteúdo em uma pasta de sua preferência.
-3. Abra o terminal na pasta do projeto.
-4. Execute ` Greenlink.exe` para iniciar a aplicação.
+3. Execute ` Greenlink.exe` para iniciar a aplicação.
 
 ---
 
