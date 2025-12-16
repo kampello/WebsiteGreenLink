@@ -13,10 +13,9 @@ Bem-vindo à página de apoio do **GreenLink**, onde encontra recursos e suporte
 
 Encontre aqui todos os guias e manuais:
 
-* [Guia de Instalação](#)
-* [Manual do Administrador](#)
-* [Manual do Cliente](#)
-* [Manual do Fornecedor](#)
-* [FAQ — Perguntas Frequentes](#)
+* [Guia de Instalação](/tutorial)
+* [Manual do Administrador](/docs/Tools/admin_tools/user_manager)
+* [Manual do Cliente](/docs/Tools/cliente_tools/pedidos)
+* [Manual do Fornecedor](/docs/Tools/fornecedor_tools/comunicacao)
 
 ---
