@@ -18,3 +18,10 @@ Escolha a versão que deseja baixar:
 | Linux      | 0.5 🥳🥦 | [Baixar Linux](#)   |
 
 > 💡 Certifique-se de que possui **Python 3.x** instalado antes de executar a aplicação.
+
+## 📝 Notas da Versão 0.5
+
+* Gestão completa de **clientes, fornecedores e administrador**
+* **Pedidos e stock** totalmente controlados
+* **Chat integrado** entre cliente e fornecedor
+* Dashboard personalizado para cada tipo de utilizador
