@@ -32,13 +32,13 @@ Esta funcionalidade permite ao administrador adicionar novos utilizadores ao sis
 
 ---
 
-## Opção 2
+## Eliminar utilizador
 
-Descrição da **Opção 2** do menu do administrador.
+Permite ao administrador remover utilizadores da base de dados de forma segura. Antes de eliminar, é possível verificar os detalhes do utilizador, garantindo que a operação não afete dados importantes do sistema.
 
-![Opção 2 Admin](/img/tutorial/opcao2admin.png)
+![Eliminar utilizador](/img/tutorial/opcao2admin.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Substitua este texto pela explicação real.
+
 
 ---
 
