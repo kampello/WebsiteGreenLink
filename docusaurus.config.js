@@ -131,9 +131,12 @@ const config = {
             position: 'left',
             label: 'Documentação',
           },
+          
+          
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/setup', label: 'Setup', position: 'left'},
           {to: '/aboutus', label: 'About Us', position: 'left'},
-          {to: '/readme', label: 'README', position: 'left'},
+          {to: '/tutorial', label: 'Tutorial', position: 'left'},
           {
             href: 'https://github.com/kampello/GreenLink/',
             label: 'GitHub',
