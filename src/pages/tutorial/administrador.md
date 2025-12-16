@@ -80,13 +80,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Substitua este texto pe
 
 ---
 
-## Opção 7
+## Consultar informações dos produtos
 
-Descrição da **Opção 7** do menu do administrador.
+Permite ao administrador visualizar detalhes completos dos produtos existentes no sistema. Inclui informações como nome, preço, stock atual. Facilita a análise e a tomada de decisões estratégicas sobre o catálogo.
 
-![Opção 7 Admin](/img/tutorial/opcao7admin.png)
+![Consultar informações dos produtos](/img/tutorial/opcao7admin.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Substitua este texto pela explicação real.
+
 
 ---
 
