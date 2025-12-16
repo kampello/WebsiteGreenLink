@@ -49,5 +49,5 @@ Escolha a versão que deseja baixar:
 
 ## 📌 Links Úteis
 
-* [Documentação Completa](/docs/intro.md)
+* [Documentação Completa](/docs/intro)
 
