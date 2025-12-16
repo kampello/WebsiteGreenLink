@@ -1,9 +1,6 @@
 ---
-title: my hello page title
-description: my hello page description
+title: Produto
+description: Produtos da GreenLink
 hide_table_of_contents: true
 ---
 
-# Hello
-
-How are you?
