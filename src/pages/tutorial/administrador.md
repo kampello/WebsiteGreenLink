@@ -70,11 +70,11 @@ Permite ao administrador remover produtos do catálogo quando não estão mais d
 
 ---
 
-## Opção 6
+## Ver stock disponível
 
-Descrição da **Opção 6** do menu do administrador.
+Esta funcionalidade mostra o stock atual de todos os produtos. O administrador pode verificar quantidades disponíveis, monitorizar produtos com pouco stock, e tomar decisões sobre reposição ou promoções. É essencial para uma gestão eficiente do inventário.
 
-![Opção 6 Admin](/img/tutorial/opcao6admin.png)
+![Ver stock disponível](/img/tutorial/opcao6admin.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Substitua este texto pela explicação real.
 
