@@ -90,10 +90,9 @@ Permite ao administrador visualizar detalhes completos dos produtos existentes n
 
 ---
 
-## Opção 8
+## Gerir tickets de fornecedores
 
-Descrição da **Opção 8** do menu do administrador.
+O administrador pode aprovar ou reprovar tickets enviados pelos fornecedores, que normalmente solicitam alterações de stock ou inclusão de novos produtos. Esta funcionalidade garante que todas as alterações passam por controlo antes de serem aplicadas no sistema, mantendo a integridade e organização do catálogo.
 
-![Opção 8 Admin](/img/tutorial/opcao8admin.png)
+![Gerir tickets de fornecedores](/img/tutorial/opcao8admin.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Substitua este texto pela explicação real.
