@@ -10,6 +10,7 @@ A página do administrador permite gerir completamente o sistema GreenLink. As p
 
 ![Página Inicial Admin](/img/tutorial/paginaadmin.png)
 
+A página inicial do administrador apresenta um resumo geral do sistema, permitindo acesso rápido às principais funcionalidades. Aqui é possível ver informações gerais, estatísticas do sistema e notificações importantes. É o ponto de partida para todas as operações administrativas.
 
 - **Criar utilizadores**: adicionar novos utilizadores ao sistema, definindo o tipo (admin, cliente ou fornecedor) e credenciais de acesso.  
 - **Eliminar utilizadores**: remover utilizadores existentes da base de dados de forma segura.  
@@ -21,7 +22,7 @@ A página do administrador permite gerir completamente o sistema GreenLink. As p
 - **Gerir tickets de fornecedores**: aprovar ou reprovar pedidos/tickets enviados pelos fornecedores para atualização de produtos ou stock.
 ---
 
-## Opção 1
+## Criar Utili
 
 Descrição da **Opção 1** do menu do administrador.
 
