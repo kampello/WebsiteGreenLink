@@ -75,3 +75,18 @@ Principais funcionalidades:
 ## 💬 Comunicação Integrada
 
 * **Chat Cliente ↔ Fornecedor** para esclarecimento rápido e eficaz
+
+## 🔐 Autenticação
+
+* Sistema de **Login** seguro
+* **Dashboard** dedicado para Cliente e Fornecedor
+
+## 🚀 Versão Atual
+
+**Versão 0.5 🥳🥦**
+
+O GreenLink encontra-se em desenvolvimento contínuo, com foco em melhorar a experiência do utilizador e a eficiência da cadeia de fornecimento de vegetais.
+
+---
+
+> 🌍 *GreenLink — a ligação verde entre produtores e consumidores.*
