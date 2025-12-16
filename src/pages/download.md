@@ -6,3 +6,15 @@ description: Download do aplicativo
 # 🥦 GreenLink — Página de Download
 
 Bem-vindo à página oficial de download do **GreenLink**, a aplicação que otimiza a gestão e comercialização de vegetais.
+
+## 📥 Download
+
+Escolha a versão que deseja baixar:
+
+| Plataforma | Versão   | Link de Download    |
+| ---------- | -------- | ------------------- |
+| Windows    | 0.5 🥳🥦 | [Baixar Windows](#) |
+| MacOS      | 0.5 🥳🥦 | [Baixar MacOS](#)   |
+| Linux      | 0.5 🥳🥦 | [Baixar Linux](#)   |
+
+> 💡 Certifique-se de que possui **Python 3.x** instalado antes de executar a aplicação.
