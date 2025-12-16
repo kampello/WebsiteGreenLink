@@ -43,3 +43,35 @@ Principais responsabilidades:
 * Garantir o correto funcionamento do sistema e a integridade dos dados
 
 Este nível de controlo assegura uma operação estável, organizada e confiável.
+
+## 🥦 Cliente
+
+O **Cliente** é o utilizador final da plataforma, beneficiando de um processo simples e transparente para aquisição de vegetais.
+
+Funcionalidades disponíveis:
+
+* Registo e autenticação segura (login)
+* Consulta do catálogo de produtos disponíveis
+* Criação e submissão de pedidos
+* Acompanhamento detalhado do estado dos pedidos:
+
+  * **Feito** – pedido registado
+  * **Pago** – pagamento confirmado
+  * **Enviado** – pedido em transporte
+  * **Entregue** – pedido concluído
+
+* Comunicação direta com o fornecedor para esclarecimentos ou ajustes
+
+Esta abordagem melhora a confiança do cliente e a previsibilidade das entregas.
+
+## 🚜 Fornecedor
+
+O **Fornecedor** é responsável por garantir a disponibilidade e entrega eficiente dos produtos.
+
+Principais funcionalidades:
+
+* Atualização contínua do stock d
+
+## 💬 Comunicação Integrada
+
+* **Chat Cliente ↔ Fornecedor** para esclarecimento rápido e eficaz
