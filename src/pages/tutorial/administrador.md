@@ -76,7 +76,6 @@ Esta funcionalidade mostra o stock atual de todos os produtos. O administrador p
 
 ![Ver stock disponível](/img/tutorial/opcao6admin.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Substitua este texto pela explicação real.
 
 ---
 
