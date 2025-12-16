@@ -149,26 +149,3 @@ Se houver testes unitários use a branch `test`:
 pip install pytest
 pytest -q
 ```
-
----
-
-## ✅ O que acrescentei ao README (resumo)
-
-1. Passos exatos para clonar e correr (incluindo `setup_db.py` e `insert_test_data.py`).
-2. Secção de dependências e `requirements.txt`.
-3. Estrutura de pastas atualizada.
-4. Comandos para ambiente virtual e execução.
-5. Nota para testes e ficheiros de dados.
-
----
-
-## 🔧 Troubleshooting rápido
-
-* **Erro: módulo não encontrado** — confirma que ativaste o `venv` e instalaste `requirements.txt`.
-* **Erro: ficheiros não existem** — verifica se estás na raiz do projecto (`GreenLink`) e se as scripts estão em `data/`.
-* **Base de dados vazia** — corre `python data/insert_test_data.py` depois do `setup_db.py`.
-
----
-
-
-
