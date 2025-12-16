@@ -19,9 +19,21 @@ Escolha a versão que deseja baixar:
 
 > 💡 Certifique-se de que possui **Python 3.x** instalado antes de executar a aplicação.
 
+---
+
 ## 📝 Notas da Versão 0.5
 
 * Gestão completa de **clientes, fornecedores e administrador**
 * **Pedidos e stock** totalmente controlados
 * **Chat integrado** entre cliente e fornecedor
 * Dashboard personalizado para cada tipo de utilizador
+
+---
+
+## 🛠️ Requisitos
+
+* Python 3.8 ou superior
+* Sistema operacional compatível (Windows, MacOS, Linux)
+* Conexão à internet para funcionalidades de chat e atualização de stock
+
+---
