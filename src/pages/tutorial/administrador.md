@@ -22,13 +22,13 @@ A página inicial do administrador apresenta um resumo geral do sistema, permiti
 - **Gerir tickets de fornecedores**: aprovar ou reprovar pedidos/tickets enviados pelos fornecedores para atualização de produtos ou stock.
 ---
 
-## Criar Utili
+## Criar utilizador
 
-Descrição da **Opção 1** do menu do administrador.
+Esta funcionalidade permite ao administrador adicionar novos utilizadores ao sistema. É possível definir o tipo de utilizador (administrador, cliente ou fornecedor), bem como criar credenciais de acesso (nome e senha). Esta opção garante que apenas utilizadores autorizados têm acesso à aplicação.
 
-![Opção 1 Admin](/img/tutorial/opcao1admin.png)
+![Criar utilizador](/img/tutorial/opcao1admin.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Substitua este texto pela explicação real.
+
 
 ---
 
