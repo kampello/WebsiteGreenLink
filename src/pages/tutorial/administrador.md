@@ -52,13 +52,11 @@ Esta opção permite pesquisar utilizadores na base de dados. O administrador po
 
 ---
 
-## Opção 4
+## Adicionar produto
 
-Descrição da **Opção 4** do menu do administrador.
+O administrador pode adicionar novos produtos ao catálogo da aplicação. Para cada produto, é necessário definir o nome, preço e quantidade inicial em stock. Esta funcionalidade garante que os produtos disponíveis para clientes e fornecedores estão sempre atualizados.
+![Adicionar produto](/img/tutorial/opcao4admin.png)
 
-![Opção 4 Admin](/img/tutorial/opcao4admin.png)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Substitua este texto pela explicação real.
 
 ---
 
