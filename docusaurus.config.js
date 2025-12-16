@@ -105,6 +105,7 @@ const config = {
               label: 'Documentação',
             },
             { to: '/blog', label: 'Blog', position: 'left' },
+            {to: '/produtos', label: 'Produtos', position: 'left'},
 
             // 🔍 Barra de pesquisa
             {
