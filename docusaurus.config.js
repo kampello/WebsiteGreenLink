@@ -1,49 +1,40 @@
 // @ts-check
 // `@type` JSDoc annotations allow editor autocompletion and type checking
 // (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
-
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'GreenLink Porject',
-  tagline: 'We Love brocoli',
+  title: 'GreenLink Project',
+  tagline: 'We Love Broccoli',
   favicon: 'img/favicon.ico',
+
   themes: [
     [
       require.resolve('@easyops-cn/docusaurus-search-local'),
       {
         hashed: true,
-        language: ['en', 'pt'],
+        language: ['en'], // alinhado com i18n
       },
     ],
   ],
 
-  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
-    v4: true, // Improve compatibility with the upcoming Docusaurus v4
+    v4: true,
   },
 
   url: 'https://github.com/',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/WebsiteGreenLink/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'kampello', // Usually your GitHub org/user name.
-  projectName: 'WebsiteGreenLink', // Usually your repo name.
+  organizationName: 'kampello',
+  projectName: 'WebsiteGreenLink',
   deploymentBranch: 'gh-pages',
+
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -56,10 +47,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/kampello/GreenLink/',
         },
         blog: {
           showReadingTime: true,
@@ -67,11 +55,7 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
+          editUrl: 'https://github.com/kampello/GreenLink/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -86,11 +70,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+
       colorMode: {
         respectPrefersColorScheme: true,
       },
+
       navbar: {
           title: 'GreenLink',
           logo: {
@@ -105,8 +90,6 @@ const config = {
               label: 'Documentação',
             },
             { to: '/blog', label: 'Blog', position: 'left' },
-            {to: '/produtos', label: 'Produtos', position: 'left'},
-            {to: '/download', label: 'Download', position: 'left'},
 
             // 🔍 Barra de pesquisa
             {
@@ -164,8 +147,9 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} GreenLink by Paulo, David, Gonçalo & Ricardo, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} GreenLink by Paulo, David, Gonçalo & Ricardo.`,
       },
+
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
