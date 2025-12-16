@@ -23,3 +23,27 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+goncalo-augusto:
+  name: Gonçalo Augusto
+  title: Desenvolvedor
+  url: https://github.com/DrunkTurkey
+  page: true
+  socials:
+    github: goncalo-augusto
+
+paulo-paulino:
+  name: Paulo Paulino
+  title: Chefe dos Brócolos
+  url: https://github.com/kampello
+  page: true
+  socials:
+    github: paulo-paulino
+
+ricardo-cunha:
+  name: Ricardo Cunha
+  title: Administrador
+  url: https://github.com/ricardo6927
+  page: true
+  socials:
+    github: ricardo-cunha
