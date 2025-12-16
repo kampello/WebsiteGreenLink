@@ -119,6 +119,28 @@ const config = {
             },
           ],
         },
+        title: 'GreenLink',
+        logo: {
+          alt: 'My Site Logo',
+          src: 'img/logo.svg',
+        },
+        items: [
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Documentação',
+          },
+          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/aboutus', label: 'About Us', position: 'left'},
+          {to: '/readme', label: 'README', position: 'left'},
+          {
+            href: 'https://github.com/kampello/GreenLink/',
+            label: 'GitHub',
+            position: 'right',
+          },
+        ],
+      },
       footer: {
         style: 'dark',
         links: [
