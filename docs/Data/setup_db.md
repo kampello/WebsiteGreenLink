@@ -129,3 +129,5 @@ No final imprime:
 - `"Base de dados criada com sucesso!"`
 
 
+### Nota da equipe
+Correr este codigo antes de abrir o Main ou Insert_Test_data é importante pois este é o ficheiro que cira a estrotura interna da Base de dados no projeto
