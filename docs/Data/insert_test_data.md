@@ -1,6 +1,6 @@
 ---
 title: insert_test_data
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # `scripts/insert_test_data.py`
