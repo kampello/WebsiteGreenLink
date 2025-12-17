@@ -7,9 +7,11 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+
   title: 'GreenLink Project',
   tagline: 'We Love Broccoli',
   favicon: 'img/favicon.ico',
+
 
   themes: [
     [
