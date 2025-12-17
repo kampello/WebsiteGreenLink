@@ -3,6 +3,24 @@ import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import Link from '@docusaurus/Link';
 import styles from './styles.module.css';
+const SocialPartners = [
+  {
+    name: 'Cooperativa X',
+    logo: './img/1.png',
+  },
+  {
+    name: 'Associação Y',
+    logo: './img/2.png',
+  },
+  {
+    name: 'Projeto Z',
+    logo: './img/3.png',
+  },
+  {
+    name: 'Iniciativa W',
+    logo: './img/4.png',
+  },
+];
 
 const FeatureList = [
   {
