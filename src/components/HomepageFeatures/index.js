@@ -165,13 +165,16 @@ export default function HomepageFeatures() {
         subtitle="Contribuições são bem-vindas — issues, melhorias na docs e sugestões."
       >
         <div className="row">
-          <div className="col col--8 col--offset-2">
+          
+          {/* Coluna esquerda — texto */}
+          <div className="col col--6">
             <div className={styles.card}>
               <ul className={styles.list}>
                 <li><b>Transparente:</b> código e evolução em público.</li>
                 <li><b>Modular:</b> fácil de adaptar a diferentes negócios.</li>
                 <li><b>Comunidade:</b> melhorias guiadas por utilizadores reais.</li>
               </ul>
+
               <div className={styles.actions}>
                 <Link
                   className="button button--primary button--lg"
@@ -179,16 +182,35 @@ export default function HomepageFeatures() {
                 >
                   Ver no GitHub
                 </Link>
-                <Link className="button button--secondary button--lg" to="/docs/intro">
+
+                <Link
+                  className="button button--secondary button--lg"
+                  to="/docs/intro"
+                >
                   Começar agora
                 </Link>
               </div>
             </div>
           </div>
+
+          {/* Coluna direita — imagem */}
+          <div className="col col--6" style={{ textAlign: "center" }}>
+            <img
+              src="./img/pc-green.png"
+              alt="GreenLink terminal"
+              style={{
+                maxWidth: "100%",
+                height: "auto",
+                borderRadius: "12px"
+              }}
+            />
+          </div>
+
         </div>
       </Section>
+
       <Section
-        title="Empresas sociais parceiras"
+        title="Empresas parceiras"
         subtitle="Organizações que partilham os mesmos valores de sustentabilidade e impacto social."
       >
         <div className="row">
