@@ -187,6 +187,18 @@ export default function HomepageFeatures() {
           </div>
         </div>
       </Section>
+      <Section
+        title="Empresas sociais parceiras"
+        subtitle="Organizações que partilham os mesmos valores de sustentabilidade e impacto social."
+      >
+        <div className="row">
+          <div className="col col--10 col--offset-1">
+            <div className={styles.card}>
+              <SocialPartnersGrid items={SocialPartners} />
+            </div>
+          </div>
+        </div>
+      </Section>
       {/* Sobre o projeto */}
       <Section
         title="O que é a GreenLink?"
@@ -241,18 +253,7 @@ export default function HomepageFeatures() {
         </div>
       </Section>
 
-      <Section
-        title="Empresas sociais parceiras"
-        subtitle="Organizações que partilham os mesmos valores de sustentabilidade e impacto social."
-      >
-        <div className="row">
-          <div className="col col--10 col--offset-1">
-            <div className={styles.card}>
-              <SocialPartnersGrid items={SocialPartners} />
-            </div>
-          </div>
-        </div>
-      </Section>
+      
 
     </>
   );
