@@ -5,7 +5,7 @@ title: Cliente
 # 🌱 Tutorial do Cliente
 
 Este tutorial explica as funcionalidades disponíveis para o **Cliente** no sistema GreenLink.  
-Algumas opções ainda se encontram em desenvolvimento e serão indicadas ao longo do tutorial.
+Algumas opções ainda se encontram em desenvolvimento e serão implementadas futuramente.
 
 ---
 
