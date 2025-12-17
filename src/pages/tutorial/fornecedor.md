@@ -14,9 +14,9 @@ A página inicial do fornecedor permite aceder às funcionalidades relacionadas 
 Clique numa opção para ver a explicação correspondente:
 
 - [Atualizar stock](#atualizar-stock)
-- [Ver estado dos tickets](#ver-estado-dos-tickets)  
-- [Consultar produtos disponíveis](#consultar-produtos-disponiveis)  
-- [Ver informações dos produtos](#ver-informacoes-dos-produtos)  
+- [Stock atual](#stock-atual)
+- [Enviar mensagem ao cliente](#enviar-mensagem-ao-cliente)
+- [Ver mensagens recebidas](#ver-mensagens-recebidas)
 
 ![Página Inicial Fornecedor](/img/tutorial/paginafornecedor.png)
 
@@ -30,27 +30,32 @@ Esta funcionalidade permite ao fornecedor **atualizar o stock** dos produtos que
 
 ---
 
-## 📄 Ver estado dos tickets {#ver-estado-dos-tickets}
+## 📦 Stock atual {#stock-atual}
 
-Esta funcionalidade permite ao fornecedor **consultar o estado dos tickets** submetidos, verificando se estão pendentes, aprovados ou rejeitados.
+Esta funcionalidade permite ao fornecedor **consultar o stock atual** dos seus produtos no sistema.  
+É possível verificar rapidamente as quantidades disponíveis, ajudando na gestão e reposição de produtos.
 
-![Ver Estado dos Tickets](/img/tutorial/opcao3fornecedor.png)
-
----
-
-## 📦 Consultar produtos disponíveis {#consultar-produtos-disponiveis}
-
-Permite ao fornecedor **consultar os produtos disponíveis** no sistema, visualizando informações gerais como nome e stock.
-
-![Consultar Produtos Disponíveis](/img/tutorial/opcao4fornecedor.png)
+![Stock Atual](/img/tutorial/opcao3fornecedor.png)
 
 ---
 
-## 📝 Ver informações dos produtos {#ver-informacoes-dos-produtos}
+## 💬 Enviar mensagem ao cliente {#enviar-mensagem-ao-cliente}
 
-Permite visualizar **informações detalhadas dos produtos**, incluindo preço, stock atual e outros dados relevantes.
+Permite ao fornecedor **enviar mensagens diretamente aos clientes**, facilitando a comunicação sobre produtos, entregas ou outras informações relevantes.
 
-![Ver Informações dos Produtos](/img/tutorial/opcao5fornecedor.png)
+Esta funcionalidade melhora a interação entre fornecedores e clientes dentro da aplicação.
+
+![Enviar Mensagem ao Cliente](/img/tutorial/opcao4fornecedor.png)
+
+---
+
+## 📥 Ver mensagens recebidas {#ver-mensagens-recebidas}
+
+Esta opção permite ao fornecedor **consultar as mensagens recebidas**, enviadas por clientes ou pelo administrador.
+
+As mensagens podem conter pedidos, dúvidas ou informações importantes relacionadas com os produtos.
+
+![Ver Mensagens Recebidas](/img/tutorial/opcao5fornecedor.png)
 
 ---
 
