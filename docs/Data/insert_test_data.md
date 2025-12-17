@@ -113,4 +113,4 @@ No script, o cliente (id 2) compra:
 
 
 ### Nota da equipa
-este ficheiro é essencial para que projeto funcione pois sem ele o login não funciona
+este ficheiro é apenas de exemplo sendo assim não é essencial porem para adiconar novos utilizadores nessecita de um admin, coisa que sem correr este codigo fica complicado
