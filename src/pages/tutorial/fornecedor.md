@@ -5,7 +5,6 @@ title: Fornecedor
 # 🌱 Tutorial do Fornecedor
 
 Este tutorial explica as funcionalidades disponíveis para o **Fornecedor** no sistema GreenLink.  
-Algumas opções ainda se encontram em desenvolvimento e estão devidamente assinaladas.
 
 ---
 
@@ -14,12 +13,10 @@ Algumas opções ainda se encontram em desenvolvimento e estão devidamente assi
 A página inicial do fornecedor permite aceder às funcionalidades relacionadas com produtos, tickets e comunicação.  
 Clique numa opção para ver a explicação correspondente:
 
-- [Opção em desenvolvimento](#opcao-em-desenvolvimento-1)  
 - [Submeter ticket de produto](#submeter-ticket-de-produto)  
 - [Ver estado dos tickets](#ver-estado-dos-tickets)  
 - [Consultar produtos disponíveis](#consultar-produtos-disponiveis)  
 - [Ver informações dos produtos](#ver-informacoes-dos-produtos)  
-- [Opção em desenvolvimento](#opcao-em-desenvolvimento-2)
 
 ![Página Inicial Fornecedor](/img/tutorial/paginafornecedor.png)
 
