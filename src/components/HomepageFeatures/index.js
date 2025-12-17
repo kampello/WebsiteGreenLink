@@ -72,6 +72,26 @@ const HowItWorks = [
   {step: '2', title: 'Recebe encomendas', text: 'Organiza por estado: pendente, em preparação, entregue.'},
   {step: '3', title: 'Entrega e acompanha', text: 'Confirma entrega, atualiza stock e analisa relatórios.'},
 ];
+function SocialPartnersGrid({items}) {
+  return (
+    <div className={styles.partnersGrid}>
+      {items.map((p) => (
+        <Link
+          key={p.name}
+          href={p.url}
+          className={styles.partnerItem}
+        >
+          <img
+            src={p.logo}
+            alt={p.name}
+            className={styles.partnerLogo}
+            loading="lazy"
+          />
+        </Link>
+      ))}
+    </div>
+  );
+}
 
 function ImageCarousel({images}) {
   const [current, setCurrent] = useState(0);
@@ -194,34 +214,19 @@ export default function HomepageFeatures() {
         </div>
       </Section>
 
-      {/* Open source */}
       <Section
-        title="Open source"
-        subtitle="Contribuições são bem-vindas — issues, PRs, melhorias na docs e sugestões."
+        title="Empresas sociais parceiras"
+        subtitle="Organizações que partilham os mesmos valores de sustentabilidade e impacto social."
       >
         <div className="row">
-          <div className="col col--8 col--offset-2">
+          <div className="col col--10 col--offset-1">
             <div className={styles.card}>
-              <ul className={styles.list}>
-                <li><b>Transparente:</b> código e evolução em público.</li>
-                <li><b>Modular:</b> fácil de adaptar a diferentes negócios.</li>
-                <li><b>Comunidade:</b> melhorias guiadas por utilizadores reais.</li>
-              </ul>
-              <div className={styles.actions}>
-                <Link
-                  className="button button--primary button--lg"
-                  href="https://github.com/kampello/GreenLink/"
-                >
-                  Ver no GitHub
-                </Link>
-                <Link className="button button--secondary button--lg" to="/docs/intro">
-                  Começar agora
-                </Link>
-              </div>
+              <SocialPartnersGrid items={SocialPartners} />
             </div>
           </div>
         </div>
       </Section>
+
     </>
   );
 }
