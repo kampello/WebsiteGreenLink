@@ -13,7 +13,7 @@ Este tutorial explica as funcionalidades disponíveis para o **Fornecedor** no s
 A página inicial do fornecedor permite aceder às funcionalidades relacionadas com produtos, tickets e comunicação.  
 Clique numa opção para ver a explicação correspondente:
 
-- [Submeter ticket de produto](#submeter-ticket-de-produto)  
+- [Atualizar stock](#atualizar-stock)
 - [Ver estado dos tickets](#ver-estado-dos-tickets)  
 - [Consultar produtos disponíveis](#consultar-produtos-disponiveis)  
 - [Ver informações dos produtos](#ver-informacoes-dos-produtos)  
@@ -22,10 +22,9 @@ Clique numa opção para ver a explicação correspondente:
 
 ---
 
-## ➕ Submeter ticket de produto {#submeter-ticket-de-produto}
+## ➕ Atualizar stock {#atualizar-stock}
 
-Permite ao fornecedor **submeter um ticket** para solicitar a adição de novos produtos ou atualização de stock.  
-O pedido será analisado pelo administrador, que poderá aprová-lo ou rejeitá-lo.
+Esta funcionalidade permite ao fornecedor **atualizar o stock** dos produtos que fornece ao sistema GreenLink.
 
 ![Submeter Ticket](/img/tutorial/opcao2fornecedor.png)
 
