@@ -22,17 +22,6 @@ Clique numa opção para ver a explicação correspondente:
 
 ---
 
-## 🚧 Opção em desenvolvimento {#opcao-em-desenvolvimento-1}
-
-Esta opção **ainda não se encontra funcional** na versão atual da aplicação.  
-Está reservada para futuras melhorias e novas funcionalidades destinadas ao fornecedor.
-
-![Opção em Desenvolvimento](/img/tutorial/opcao1fornecedor.png)
-
-> ⚠️ Funcionalidade ainda não implementada.
-
----
-
 ## ➕ Submeter ticket de produto {#submeter-ticket-de-produto}
 
 Permite ao fornecedor **submeter um ticket** para solicitar a adição de novos produtos ou atualização de stock.  
@@ -66,11 +55,6 @@ Permite visualizar **informações detalhadas dos produtos**, incluindo preço, 
 
 ---
 
-## 🚧 Opção em desenvolvimento {#opcao-em-desenvolvimento-2}
+## Opções em Desenvolvimento
 
-Esta opção **não está operacional** nesta versão da aplicação.  
-Será utilizada futuramente para expandir as funcionalidades do fornecedor.
-
-![Opção em Desenvolvimento](/img/tutorial/opcao6fornecedor.png)
-
-> ⚠️ Funcionalidade ainda não implementada.
+Algumas das funcionalidades não foram impkementadas e pretende-se implementar futuramente
