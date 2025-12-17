@@ -37,10 +37,15 @@ Cada página de documentação explica:
 - 🔌 **Parâmetros de entrada**
 - 📤 **O que cada função faz**
 - 🗄️ **Interações com a base de dados (SQLite)**
+> Atualmente, o projeto não utiliza dependências externas, recorrendo apenas às bibliotecas padrão do Python.
 - 🔗 **Dependências com outros módulos**
 
-A explicação foi escrita de forma clara e prática,
-como se fosse partilhada entre colegas de equipa.
+
+
+:::warning
+Este projeto encontra-se em fase de desenvolvimento e o código ainda não está finalizado.
+:::
+
 
 ---
 
