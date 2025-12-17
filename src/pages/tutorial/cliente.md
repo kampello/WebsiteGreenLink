@@ -48,3 +48,9 @@ Esta funcionalidade permite ao cliente **realizar pedidos**, selecionando o prod
 Permite ao cliente **visualizar mensagens recebidas**, normalmente enviadas por fornecedores ou pelo administrador.
 
 ![Ver Mensagens Recebidas](/img/tutorial/opcao5cliente.png)
+
+
+--- 
+## Opções em Desenvolvimento
+
+Algumas das funcionalidades não foram impkementadas e pretende-se implementar futuramente
