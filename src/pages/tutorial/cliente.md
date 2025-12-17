@@ -38,27 +38,8 @@ Esta funcionalidade permite ao cliente **realizar pedidos**, selecionando o prod
 
 ![Fazer Pedido](/img/tutorial/opcao2cliente.png)
 
----
 
-## 🚧 Opção em desenvolvimento {#opcao-em-desenvolvimento-1}
 
-Esta opção **ainda não se encontra funcional** na versão atual da aplicação.  
-Está reservada para futuras melhorias.
-
-![Opção em Desenvolvimento](/img/tutorial/opcao3cliente.png)
-
-> ⚠️ Funcionalidade ainda não implementada.
-
----
-
-## 🚧 Opção em desenvolvimento {#opcao-em-desenvolvimento-2}
-
-Esta opção **não está operacional** nesta versão do sistema.  
-Será utilizada para adicionar novas funcionalidades ao cliente.
-
-![Opção em Desenvolvimento](/img/tutorial/opcao4cliente.png)
-
-> ⚠️ Funcionalidade ainda não implementada.
 
 ---
 
