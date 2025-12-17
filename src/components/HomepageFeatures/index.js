@@ -159,7 +159,34 @@ export default function HomepageFeatures() {
           </div>
         </div>
       </section>
-
+      {/* Open source */}
+      <Section
+        title="Open source"
+        subtitle="Contribuições são bem-vindas — issues, melhorias na docs e sugestões."
+      >
+        <div className="row">
+          <div className="col col--8 col--offset-2">
+            <div className={styles.card}>
+              <ul className={styles.list}>
+                <li><b>Transparente:</b> código e evolução em público.</li>
+                <li><b>Modular:</b> fácil de adaptar a diferentes negócios.</li>
+                <li><b>Comunidade:</b> melhorias guiadas por utilizadores reais.</li>
+              </ul>
+              <div className={styles.actions}>
+                <Link
+                  className="button button--primary button--lg"
+                  href="https://github.com/kampello/GreenLink/"
+                >
+                  Ver no GitHub
+                </Link>
+                <Link className="button button--secondary button--lg" to="/docs/intro">
+                  Começar agora
+                </Link>
+              </div>
+            </div>
+          </div>
+        </div>
+      </Section>
       {/* Sobre o projeto */}
       <Section
         title="O que é a GreenLink?"
