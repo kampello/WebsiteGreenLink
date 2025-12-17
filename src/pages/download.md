@@ -13,9 +13,9 @@ Escolha a versão que deseja baixar:
 
 | Plataforma | Versão   | Link de Download    |
 | ---------- | -------- | ------------------- |
-| Windows    | 0.5 🥳🥦 | [Baixar Windows](#) |
-| MacOS      | 0.5 🥳🥦 | [Baixar MacOS](#)   |
-| Linux      | 0.5 🥳🥦 | [Baixar Linux](#)   |
+| Windows    | 0.5 🥳🥦 | [Baixar Windows](https://github.com/kampello/GreenLink/releases) |
+| MacOS      | 0.5 🥳🥦 | [Baixar MacOS](https://github.com/kampello/GreenLink/releases)   |
+| Linux      | 0.5 🥳🥦 | [Baixar Linux](https://github.com/kampello/GreenLink/releases)   |
 
 > 💡 Certifique-se de que possui **Python 3.x** instalado antes de executar a aplicação.
 
