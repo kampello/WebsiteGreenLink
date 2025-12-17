@@ -12,7 +12,7 @@ Algumas opções ainda se encontram em desenvolvimento e serão implementadas fu
 ## 🏠 Página Inicial
 
 A página inicial do cliente permite aceder às principais funcionalidades relacionadas com produtos, pedidos e comunicação.  
-Clique numa opção para ver a explicação correspondente:
+
 
 - [Ver produtos disponíveis](#ver-produtos-disponiveis)  
 - [Fazer pedido](#fazer-pedido)  
