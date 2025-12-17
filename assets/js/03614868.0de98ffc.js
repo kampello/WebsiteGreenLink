@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwebsite_green_link=globalThis.webpackChunkwebsite_green_link||[]).push([[6805],{4663:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/WebsiteGreenLink/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":7,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
