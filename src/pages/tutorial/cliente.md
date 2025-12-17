@@ -45,7 +45,7 @@ Esta funcionalidade permite ao cliente **realizar pedidos**, selecionando o prod
 
 ## 💬 Ver mensagens recebidas {#ver-mensagens-recebidas}
 
-Permite ao cliente **visualizar mensagens recebidas**, normalmente enviadas por fornecedores ou pelo administrador.
+Permite ao cliente **visualizar mensagens recebidas**, normalmente enviadas por fornecedores.
 
 ![Ver Mensagens Recebidas](/img/tutorial/opcao5cliente.png)
 
