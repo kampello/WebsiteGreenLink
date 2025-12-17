@@ -149,26 +149,18 @@ function Section({title, subtitle, children}) {
 export default function HomepageFeatures() {
   return (
     <>
-      {/* Top features */}
-      <section className={styles.features}>
-        <div className="container">
-          <div className="row">
-            {FeatureList.map((props, idx) => (
-              <Feature key={idx} {...props} />
-            ))}
-          </div>
-        </div>
-      </section>
+      
       {/* Open source */}
-      <Section
-        title="Open source"
-        subtitle="Contribuições são bem-vindas — issues, melhorias na docs e sugestões."
-      >
-        <div className="row">
-          
-          {/* Coluna esquerda — texto */}
-          <div className="col col--6">
-            <div className={styles.card}>
+     <Section
+      title="Open source"
+      subtitle="Contribuições são bem-vindas — issues, melhorias na docs e sugestões."
+    >
+      <div className="row">
+        <div className="col col--12">
+          <div className={styles.card} style={{ display: "flex", gap: "2rem", alignItems: "center" }}>
+
+            {/* Texto à esquerda */}
+            <div style={{ flex: 1 }}>
               <ul className={styles.list}>
                 <li><b>Transparente:</b> código e evolução em público.</li>
                 <li><b>Modular:</b> fácil de adaptar a diferentes negócios.</li>
@@ -191,23 +183,34 @@ export default function HomepageFeatures() {
                 </Link>
               </div>
             </div>
-          </div>
 
-          {/* Coluna direita — imagem */}
-          <div className="col col--6" style={{ textAlign: "center" }}>
-            <img
-              src="./img/pc-green.png"
-              alt="GreenLink terminal"
-              style={{
-                maxWidth: "100%",
-                height: "auto",
-                borderRadius: "12px"
-              }}
-            />
-          </div>
+            {/* Imagem à direita */}
+            <div style={{ flex: 1, textAlign: "right" }}>
+              <img
+                src="./img/pc-green.png"
+                alt="GreenLink terminal"
+                style={{
+                  maxWidth: "50%",
+                  height: "auto",
+                  borderRadius: "1px"
+                }}
+              />
+            </div>
 
+          </div>
         </div>
-      </Section>
+      </div>
+    </Section>
+       {/* Top features */}
+      <section className={styles.features}>
+        <div className="container">
+          <div className="row">
+            {FeatureList.map((props, idx) => (
+              <Feature key={idx} {...props} />
+            ))}
+          </div>
+        </div>
+      </section>         
 
       <Section
         title="Empresas parceiras"
