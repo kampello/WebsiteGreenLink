@@ -27,7 +27,7 @@ A página inicial do cliente permite aceder às principais funcionalidades relac
 ## 🛒 Ver produtos disponíveis {#ver-produtos-disponiveis}
 
 Permite ao cliente **consultar todos os produtos disponíveis** no sistema, incluindo informações como nome, preço e stock.
-
+ 
 ![Ver Produtos Disponíveis](/img/tutorial/opcao1cliente.png)
 
 ---
@@ -35,7 +35,7 @@ Permite ao cliente **consultar todos os produtos disponíveis** no sistema, incl
 ## 📦 Fazer pedido {#fazer-pedido}
 
 Esta funcionalidade permite ao cliente **realizar pedidos**, selecionando o produto desejado e a quantidade pretendida.
-
+ 
 ![Fazer Pedido](/img/tutorial/opcao2cliente.png)
 
 
